@@ -1,5 +1,9 @@
 # Agrigarud Animal Detection
 Advanced AI solution for real-time animal detection and farm management using computer vision.
+![image](https://github.com/Krupa3006/Agrigarud-Animal-Detection/assets/123809531/d8c7580e-c57c-4c44-b0f8-16deb7bb2b34)
+![image](https://github.com/Krupa3006/Agrigarud-Animal-Detection/assets/123809531/41dd94ac-d828-4f6e-8dbc-cf05daba20ac)
+![image](https://github.com/Krupa3006/Agrigarud-Animal-Detection/assets/123809531/1a8b21d7-ff87-4046-bb66-db7be8204edf)
+![image](https://github.com/Krupa3006/Agrigarud-Animal-Detection/assets/123809531/9680f48d-2636-467b-b657-a6427eef4171)
 
 # Overview
 Agrigarud is an innovative project developed at Navrachana University with the objective of transforming traditional farming practices through the integration of advanced AI and computer vision technologies. This project focuses on detecting animals within farming environments to enhance monitoring and management, thereby increasing agricultural efficiency and productivity.
