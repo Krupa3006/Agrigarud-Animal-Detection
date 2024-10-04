@@ -36,8 +36,13 @@ Enhanced decision-making capabilities by delivering actionable data through the 
 - The Agrigarud project aims to revolutionize the agricultural sector by providing farmers with advanced tools to monitor and manage their livestock more effectively. By leveraging AI technology, Agrigarud not only improves farm productivity but also contributes to the overall sustainability of farming practices.
 
 # Future Enhancements
-- Expanded Animal Detection: Extend the system to detect a broader range of animals and track their health conditions.
-- Enhanced Data Analytics: Incorporate advanced analytics to predict animal behavior and potential issues.
+- Future Scope
+CCTV Integration for Real-Time Detection:
+
+We plan to integrate CCTV systems to enable real-time animal detection, providing continuous monitoring of large farming areas. This will enhance the system’s effectiveness by offering real-time alerts and a broader coverage of fields.
+- Extended Species Detection:
+
+The system will be enhanced to detect a wider range of animal species beyond the current dataset, ensuring better protection for farms against various wildlife intrusions.
 - IoT Integration: Integrate with IoT devices for more comprehensive farm monitoring solutions.
   
 # Conclusion
